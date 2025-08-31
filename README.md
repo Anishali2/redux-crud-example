@@ -1,4 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Example
+![Image Description](https://github.com/user-attachments/assets/6c25f3c1-7848-4a2b-996c-160e78863fa3)
+
 
 ## Getting Started
 
